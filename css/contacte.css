@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    background-color: rgb(35, 103, 102);
+}
+
+ul {
+    list-style-type: none;
+    font-size: 20px;
+    font-style: italic;
+}
+
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 35px;
+    color:violet;
+}
+
+
+#portada{
+    border-radius: 25%;
+}
+
+label{
+    color: yellow;
+}
+
+#idNombre{
+    background-color: violet;
+}
+
+#inPhone{
+    background-color: violet;   
+}
+
+textarea{
+    background-color: violet;
+}
+
+button{
+    color: yellow;
+    background-color: violet;
+}
+
+p{
+    color: yellow;
+}
+

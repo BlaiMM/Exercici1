@@ -1,0 +1,108 @@
+
+
+body {
+    text-align: center;
+    background-color: rgb(35, 103, 102);
+}
+
+ul {
+    list-style-type: none;
+    font-size: 20px;
+    font-style: italic;
+}
+
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 35px;
+    color: violet;
+}
+
+#portada{
+    border-radius: 25%;
+}
+
+#foto1{
+    border-radius: 10%;
+    margin-left: 150px;
+    border-style:outset;
+    border-color: black;
+
+}
+
+#foto2{
+    border-radius: 10%;
+    margin-left: 270px;
+    border-style:outset;
+    border-color: black;
+}
+#foto3{
+    border-radius: 10%;
+    margin-left: 190px;
+    border-style:outset;
+    border-color: black;
+}
+#foto4{
+    border-radius: 10%;
+    margin-left: 150px;
+    border-style:outset;
+    border-color: black;
+
+}
+#foto5{
+    border-radius: 10%;
+    margin-left: 220px;
+    border-style:outset;
+    border-color: black;
+}
+#foto6{
+    border-radius: 10%;
+    margin-left: 250px;
+    border-style:outset;
+    border-color: black;
+}
+#foto7{
+    border-radius: 10%;
+    margin-left: 150px;
+    border-style:outset;
+    border-color: black;
+}
+#foto8{
+    border-radius: 10%;
+    margin-left: 120px;
+    border-style:outset;
+    border-color: black;
+}
+#foto9{
+    border-radius: 10%;
+    margin-left: 250px;
+    border-style:outset;
+    border-color: black;
+}
+
+#instaimg{
+    position: absolute;
+    margin-top: 155px;
+    margin-left: 480px;
+    height: 25px;
+    width: 25px;
+}
+
+#twitterimg{
+    position: absolute;
+    margin-top: 155px;
+    margin-left: 510px;
+    height: 24px;
+    width: 24px;
+}
+
+footer{
+    margin-top: 150px;
+    color: white;
+    font-size: 30px;
+    font-family:sans-serif;
+    background-color: black;
+    margin-left: 150px;
+    margin-right: 150px;
+}

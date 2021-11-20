@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+    background-color: rgb(35, 103, 102);
+}
+
+#imgtop{
+    border-radius: 25%;
+
+}
+
+ul {
+    list-style-type: none;
+    font-size: 20px;
+    font-style: italic;
+}
+
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 35px;
+    color: violet;
+}
+
+
+h3{
+    font-size: 25px;
+    color:pink;
+    border-color: violet;
+}
+
+#videos{
+    border-radius: 45px;
+    border-color: violet;
+}
+
+#videos2{
+    border-radius: 45px;
+    border-color: violet;
+}
+
+#videos3{
+    border-radius: 45px;
+    border-color: violet;
+}
+
+footer{
+    margin-top: 150px;
+    color: white;
+    font-size: 30px;
+    font-family:sans-serif;
+    background-color: black;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#instaimg{
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 480px;
+    height: 25px;
+    width: 25px;
+}
+
+#twitterimg{
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 510px;
+    height: 24px;
+    width: 24px;
+}

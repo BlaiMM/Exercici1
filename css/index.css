@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+    background-color: rgb(35, 103, 102);
+}
+
+#imgtop{
+    border-radius: 25%;
+
+}
+#taulagenda{
+    margin: auto;
+}
+
+th{
+    font-size: 35px;
+}
+
+#instaimg{
+    position: absolute;
+    margin-top: 155px;
+    margin-left: 480px;
+    height: 25px;
+    width: 25px;
+}
+
+#twitterimg{
+    position: absolute;
+    margin-top: 155px;
+    margin-left: 510px;
+    height: 24px;
+    width: 24px;
+}
+#masinfoagenda{
+    font-size: 25px;
+}
+ul {
+    list-style-type: none;
+    font-size: 20px;
+    font-style: italic;
+}
+
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 35px;
+    color: violet;
+}
+#paz{
+    margin-left: -250px;
+}
+div{
+    margin-top: -110px;
+    margin-left: 350px;
+}
+footer{
+    margin-top: 150px;
+    color: white;
+    font-size: 30px;
+    font-family:sans-serif;
+    background-color: black;
+    margin-left: 150px;
+    margin-right: 150px;
+}
